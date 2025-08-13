@@ -39,4 +39,3 @@ Usage: Fetch (Extract File) 🕵️‍♀️
 Example:
 ./fetch -png sneaky-cat.png -o secret.txt -crc 0xABC123
 
-Made by [Your Name]. ⭐
