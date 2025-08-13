@@ -8,7 +8,7 @@ Fetch: Finds hidden file using a CRC hash, decrypts, and saves it. Can run .exe 
 Setup
 
 Install Go (1.16+): golang.org
-Clone repo: git clone https://github.com/yourusername/SneakyPNG.git
+Clone repo: git clone https://github.com/JustHackedOn/SneakyPNG.git
 Build: 
 go build embed.go → embed (or embed.exe)
 go build fetch.go → fetch (or fetch.exe)
